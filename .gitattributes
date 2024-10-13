@@ -1,3 +1,0 @@
-# Force LF for all text files
-* text=auto
-*.js text eol=lf
